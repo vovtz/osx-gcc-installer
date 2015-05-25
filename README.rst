@@ -1,4 +1,4 @@
-OSX GCC Installer
+OS X GCC Installer
 =================
 
 The osx-gcc-installer allows you to install the essential compilers from either pre-built binary packages or helps you create your own installer.
